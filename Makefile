@@ -11,8 +11,6 @@ else
     INCLUDE_SDKVERSION = 13.7
 endif
 
-INSTALL_TARGET_PROCESSES = imagent
-
 include $(THEOS)/makefiles/common.mk
 
 SUBPROJECTS += Agent
