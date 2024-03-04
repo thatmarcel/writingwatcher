@@ -1,0 +1,9 @@
+Package: com.thatmarcel.tweaks.writingwatcher
+Name: WritingWatcher
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Sends a notification when someone starts/stops typing on iMessage
+Maintainer: thatmarcel
+Author: thatmarcel
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
